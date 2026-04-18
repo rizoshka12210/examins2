@@ -12,3 +12,4 @@
 /Users/rizoakramov/Desktop/examin2/obj/Debug/net10.0/examin2.pdb
 /Users/rizoakramov/Desktop/examin2/obj/Debug/net10.0/examin2.genruntimeconfig.cache
 /Users/rizoakramov/Desktop/examin2/obj/Debug/net10.0/ref/examin2.dll
+/Users/rizoakramov/Desktop/examin2/obj/Debug/net10.0/examin2.sourcelink.json
